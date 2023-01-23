@@ -24,7 +24,7 @@ This page focuses on implementing the basics of HTML and CSS with positioning of
 
 ## Deployed Version Link
 
-- [Live Demo]()
+- [Live Demo](https://digital-marketing-homepage-op.netlify.app/)
 
 ## Snapshot of Webpage
 
